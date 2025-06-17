@@ -1,24 +1,7 @@
-# README
+# Showrunner Sheet - Rails Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo provides a lightweight Rails backend database and server for the Showrunner Sheet React project, which lives here: https://github.com/ontruster74/showrunner-sheet-fe
 
-Things you may want to cover:
+## Database Planning (dbdiagram.io)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![StretchProject_BEPlanning](https://github.com/user-attachments/assets/b4d3c2c4-452c-4465-9c02-bb178e8def7d)
